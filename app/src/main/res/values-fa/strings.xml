@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تغییر رنگ</string>
+    <string name="change_color">تغییر پس زمینه</string>
+    <string name="next_activity">اکتیویتی بعد</string>
+    <string name="back">بازگشت</string>
+</resources>
